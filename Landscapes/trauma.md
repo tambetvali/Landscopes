@@ -1,3 +1,19 @@
+# Interactive Exploration Resource
+
+**🔗 Click to open:**  
+**https://elysium-nexus-c43ea5db.buildaispace.app**
+
+This interactive page is a companion to the *Scientific Trauma* articles.  
+It allows you to:
+
+- Explore the trauma model through dynamic, branching logic  
+- Interact with the Impossible / Improbable / Certain framework  
+- See how holistic, scientific, and spiritual layers integrate  
+- Understand the game‑theoretic structure behind trauma resolution  
+- Navigate the concepts visually and experientially  
+
+Use it as a living map to deepen your understanding before reading further.
+
 # Scientific Traumas
 
 I have researched the structure of immortality, and also made some work to understand >40y fertility in women.
