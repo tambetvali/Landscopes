@@ -16,7 +16,19 @@ Main task: show how multi-digit numbers can spread digits into low-short-term, h
 
 Spread Laegna, Classic math and spiritual themes of infinities and metaphor - metaphor, like class-level thinking, is based on sets of member infinities.
 
-## Task central screen (head page) short overview
+## Introduction: Required Widgets and Their Purpose
+
+The Infinity‑Drive interface benefits from a small set of essential widgets that expose the **core symmetries of Laegna and SpiReason**. These include: a digit selector (O/A or IOAE), a fractal grid viewer, a dual‑line (forward/mirrored) renderer, and a mode switcher for Z/X/Y octave perspectives. Each widget corresponds to a structural symmetry described in the Laegna ecosystem: the **digit selector** reveals how local binary choices propagate through fractal repetition; the **grid viewer** shows how these repetitions form stable geometric identities; the **dual‑line renderer** exposes the number’s relation to **infinity** (forward) and **zero** (mirrored); and the **octave mode switcher** connects the visualization to the broader SpiReason framework at *spireason.neocities.org/#infinity*, *#sheep*, and related modules. These widgets are minimal but sufficient: they reveal the mathematical and metaphysical structure without overwhelming the user.
+
+A second group of widgets supports **interpretation** rather than **construction**. These include: a base‑4 IOAE overlay, a Hilbert‑external‑space toggle, a Gaussian projection preview, and a Laegna‑wave comparison panel. Their purpose is to show how the same number behaves under different conceptual lenses: IOAE reveals the first compression of binary pairs; Hilbert‑external‑space shows how exponent behavior becomes non‑trivial when projected outward; Gaussian projection demonstrates how the simple Laegna line becomes a complex zigzag in the classical decimal plane; and the wave comparison panel shows how Laegna’s digit‑based octave structure parallels Fourier‑style decomposition. These widgets are optional but deepen understanding of the system’s internal symmetries.
+
+##### Secondary Features and Why They Must Remain Secondary
+
+Additional features — such as animated timelines, multi‑pane dashboards, or interactive metaphysical overlays — can enrich the experience but must remain **secondary** to the central line visualization. The Infinity‑Drive’s power lies in showing how **a simple digit sequence encodes a unique fractal curve**, and how this curve simultaneously expresses the number’s **local identity** and its **global relation to infinity and zero**. Everything else is commentary. The more auxiliary widgets appear, the more important it becomes to keep the line visualization visually dominant, conceptually central, and computationally primary.
+
+This is especially true because the Laegna line is not merely a drawing: it is a **coordinate transformation engine**. In Laegna, numbers encode **curves**, and curves encode **angles**, and angles encode **distances** in both internal and external Hilbert‑style spaces. When projected into the classical decimal plane, the smooth Laegna line becomes a **zigzag of Gaussian curvature**, because Hilbert’s external space “untrivializes” exponent behavior: what is a clean exponent step in Laegna becomes a stretched, distorted, or collapsed segment in classical space. In Hilbert’s external geometry, the “distance 1–2” is an **external angle**, not a linear segment; when projected into Laegna, that same 1–2 becomes **1–∞**, because the external angle corresponds to the *entire* outward‑collapse of exponent space. Both systems measure length by angle — Hilbert through external angular displacement, Laegna through internal fractal angular repetition — and the Infinity‑Drive line is the bridge between them.
+
+##### Task central screen (head page) short overview
 
 https://github.com/tambetvali/Landscopes/blob/main/Landscapes/InfinityDriveForAnAI.md and InfinityDriveForAnAI.md contain both the main task. It concludes where you find the number formats, and which rules about them to represent:
 
@@ -147,3 +159,285 @@ Json files contain timeline animation data - numbers, from R=1 to R=3 (it can al
 The square bench must create absolutely compatible, linear line passing perfectly the fractally right digits, top-down yang and bottom-up yin above and below; linear Tao extends this through negative and positive Hilbert-space symmetries, where for example for R=3 left and right two-digit screens are close to perfect projections of external and internal: base-4 number can always split to two halves of base-2 system, and you should do this verbosely to cut any number into two: here, you need R=0.5, and it's growth, as well as to analyze and analyze Laegna Number Systems and their Theories.
 
 Laegna, SpiReason, SpiBody - Theoretical, Spiritual and Practical paths develop with central https://spireason.neocities.org/, and often there are anchors to link: preferrably a few lines or low-height blocks above the point to not be hidden by top buttons, this holds for book of shadows 2 - you can learn wu wei from those books, some games and maths, but do not tell those stories here and we are not really simulating real world. Rather, make the base demonstration of linear 1-3 digit number expressive!
+
+------------
+What follows, is CoPilot:
+
+# Laegna Infinity Drive — Central Line Visualization
+
+This document explains the mathematical structure of the **Infinity‑Drive line**, and provides a **full implementation sketch** with **escaped code fences** so you can embed it directly into GitHub Markdown.
+
+Two key sentences from the specification:
+
+> “Fractally, zero origin at X=1 and Y=1 is where the imagined line starts.”  
+> “Second bit is at X=4 and Y is (1 or 2 two times). Y % 2 thus, is the selected bit…”
+
+---
+
+## 1. Coordinate System
+
+### X‑axis (columns)
+Digits sit at powers of two:
+
+- Origin: $X_0 = 1$
+- First digit: $X_1 = 2$
+- Second digit: $X_2 = 4$
+- Third digit: $X_3 = 8$
+- …
+- General:  
+  $$X_k = 2^k$$
+
+### Y‑axis (rows)
+For an $n$‑digit number:
+
+$$N = 2^n$$
+
+Rows are indexed:
+
+$$Y \in \{1,2,\dots,N\}$$
+
+---
+
+## 2. Digit Encoding
+
+Laegna base‑2 digits:
+
+- `O` → bit $0$
+- `A` → bit $1$
+
+So a number is:
+
+$$(d_1, d_2, \dots, d_n), \quad d_k \in \{O, A\}$$
+
+with bits:
+
+$$(b_1, b_2, \dots, b_n)$$
+
+---
+
+## 3. Vertical Pattern (Fractal Repetition)
+
+For each row $y$ and digit index $k$:
+
+### Block index
+$$
+\text{block}_k(y) = \left\lfloor \frac{y-1}{2^{k-1}} \right\rfloor
+$$
+
+### Local bit
+$$
+\text{bit}_k(y) = \text{block}_k(y) \bmod 2
+$$
+
+This produces the exact repetition pattern described in the task.
+
+---
+
+## 4. Selecting the Line
+
+For each digit index $k$:
+
+- We find the **unique row** $Y_k$ such that:
+
+$$
+\forall j \le k:\quad \text{bit}_j(Y_k) = b_j
+$$
+
+The line consists of:
+
+- Start: $(1,1)$
+- Then $(2^1, Y_1)$
+- Then $(2^2, Y_2)$
+- …
+- Then $(2^n, Y_n)$
+
+---
+
+## 5. Mirrored Line (Relation to Zero)
+
+The mirrored view is defined by:
+
+1. **Reverse digits**  
+   $(d_n, \dots, d_1)$  
+2. **Compute forward line** for reversed digits  
+3. **Mirror Y**:  
+   $$y \mapsto N+1-y$$  
+4. **Mirror X**:  
+   $$2^k \mapsto 2^{n-k+1}$$  
+
+This produces the “zero‑relation” line.
+
+---
+
+## 6. Implementation Sketch (TypeScript)
+
+Below is the full implementation, with **escaped code fences** so GitHub will render them correctly.
+
+\`\`\`ts
+// infinity-drive-line.ts
+// Core line visualization for Laegna base-2 digits (O/A) with mirrored view.
+
+type LaegnaDigit = "O" | "A";
+
+interface LinePoint {
+  x: number;
+  y: number;
+}
+
+interface LineConfig {
+  digits: LaegnaDigit[];
+  cellSize: number;
+  originOffsetX: number;
+  originOffsetY: number;
+}
+
+function digitToBit(d: LaegnaDigit): 0 | 1 {
+  return d === "A" ? 1 : 0;
+}
+
+function computeForwardLine(config: LineConfig): LinePoint[] {
+  const { digits } = config;
+  const n = digits.length;
+  const N = 2 ** n;
+
+  const points: LinePoint[] = [];
+  points.push({ x: 1, y: 1 });
+
+  for (let k = 1; k <= n; k++) {
+    const requiredBits = digits.slice(0, k).map(digitToBit);
+
+    let chosenY = 1;
+    for (let y = 1; y <= N; y++) {
+      let ok = true;
+      for (let j = 1; j <= k; j++) {
+        const block = Math.floor((y - 1) / 2 ** (j - 1));
+        const bit = block % 2;
+        if (bit !== requiredBits[j - 1]) {
+          ok = false;
+          break;
+        }
+      }
+      if (ok) {
+        chosenY = y;
+        break;
+      }
+    }
+
+    const Xk = 2 ** k;
+    points.push({ x: Xk, y: chosenY });
+  }
+
+  return points;
+}
+
+function computeMirroredLine(config: LineConfig): LinePoint[] {
+  const { digits } = config;
+  const n = digits.length;
+  const N = 2 ** n;
+
+  const reversed = [...digits].reverse();
+  const forwardReversed = computeForwardLine({ ...config, digits: reversed });
+
+  const mirrored: LinePoint[] = [];
+
+  for (let i = 0; i < forwardReversed.length; i++) {
+    const p = forwardReversed[i];
+    const yMirror = N + 1 - p.y;
+
+    if (p.x === 1) {
+      mirrored.push({ x: 1, y: yMirror });
+    } else {
+      const k = Math.log2(p.x);
+      const kMirror = n - k + 1;
+      const xMirror = 2 ** kMirror;
+      mirrored.push({ x: xMirror, y: yMirror });
+    }
+  }
+
+  return mirrored;
+}
+
+export function drawInfinityDriveLine(
+  canvas: HTMLCanvasElement,
+  config: LineConfig
+) {
+  const ctx = canvas.getContext("2d");
+  if (!ctx) return;
+
+  const { digits, cellSize, originOffsetX, originOffsetY } = config;
+  const n = digits.length;
+  const N = 2 ** n;
+
+  const maxX = 2 ** n;
+  canvas.width = (maxX + 1) * cellSize + originOffsetX * 2;
+  canvas.height = (N + 2) * cellSize + originOffsetY * 2;
+
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  const toCanvas = (p: LinePoint): [number, number] => {
+    const cx = originOffsetX + p.x * cellSize;
+    const cy = canvas.height - (originOffsetY + p.y * cellSize);
+    return [cx, cy];
+  };
+
+  ctx.strokeStyle = "#444";
+  ctx.lineWidth = 1;
+  for (let x = 1; x <= maxX; x++) {
+    const [cx1, cy1] = toCanvas({ x, y: 1 });
+    const [cx2, cy2] = toCanvas({ x, y: N });
+    ctx.beginPath();
+    ctx.moveTo(cx1, cy1);
+    ctx.lineTo(cx2, cy2);
+    ctx.stroke();
+  }
+  for (let y = 1; y <= N; y++) {
+    const [cx1, cy1] = toCanvas({ x: 1, y });
+    const [cx2, cy2] = toCanvas({ x: maxX, y });
+    ctx.beginPath();
+    ctx.moveTo(cx1, cy1);
+    ctx.lineTo(cx2, cy2);
+    ctx.stroke();
+  }
+
+  const forward = computeForwardLine(config);
+  const mirrored = computeMirroredLine(config);
+
+  ctx.strokeStyle = "#ff8800";
+  ctx.lineWidth = 2;
+  ctx.beginPath();
+  forward.forEach((p, i) => {
+    const [cx, cy] = toCanvas(p);
+    if (i === 0) ctx.moveTo(cx, cy);
+    else ctx.lineTo(cx, cy);
+  });
+  ctx.stroke();
+
+  ctx.strokeStyle = "#00aaff";
+  ctx.lineWidth = 2;
+  ctx.beginPath();
+  mirrored.forEach((p, i) => {
+    const [cx, cy] = toCanvas(p);
+    if (i === 0) ctx.moveTo(cx, cy);
+    else ctx.lineTo(cx, cy);
+  });
+  ctx.stroke();
+
+  ctx.fillStyle = "#fff";
+  ctx.font = "12px monospace";
+  digits.forEach((d, k) => {
+    const x = 2 ** (k + 1);
+    const [cx, cy] = toCanvas({ x, y: N + 1 });
+    ctx.fillText(d, cx - 4, cy + 12);
+  });
+}
+\`\`\`
+
+---
+
+## 7. Notes for Extension
+
+- Base‑4 IOAE overlay can be added by grouping $(\text{bit}_1, \text{bit}_2)$ pairs.
+- The same grid can host Z/X/Y octave overlays.
+- The mirrored line expresses the “zero‑relation” symmetry.
+
+---
