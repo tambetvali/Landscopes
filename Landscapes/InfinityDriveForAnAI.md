@@ -2,7 +2,7 @@
 
 ◯ gray bullet = left cheat‑sheet button stack (implementation spine); colorful icon = interactive Infinity‑Drive simulation of the same flow at higher paradigm.
 
-Concept notes: [Infinity Drive for an AI](https://github.com/tambetvali/Landscopes/blob/main/Landscapes/InfinityDriveForAnAI.md)
+Concept notes: [This file itself](https://github.com/tambetvali/Landscopes/blob/main/Landscapes/InfinityDriveForAnAI.md)
 
 # Task for an AI, an "Infinity Drive"
 
