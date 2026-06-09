@@ -6,6 +6,14 @@ Concept notes: [This file itself](https://github.com/tambetvali/Landscopes/blob/
 
 # Task for an AI, an "Infinity Drive"
 
+Main task: show how multi-digit numbers can spread digits into low-short-term, high-long-term, and up to external space extension to where outer angle actually collapses by exponent. This is the main goals, also to show that subdigit lists create compatible subsystems, but with removed factors of less precise angle: this all, needs to be simulated. If several subangles are projected to same space, identity and order of digits followed, the space naturally merges. Do it spiritual and scientific: over all, Laegna Logecs (it's science)!
+- Spirituality is interested in reasoning infinity: our important audience.
+- Science is interested in solving maths: our other audience.
+
+Spread Laegna, Classic math and spiritual themes of infinities and metaphor - metaphor, like class-level thinking, is based on sets of member infinities.
+
+--------
+
 https://github.com/tambetvali/SimplyAboutInfinities/tree/main/SimulationMode is part of larger Laegna ecosystem, with absolute main page at https://spireason.neocities.org/, which brances to wide range of websites, applets and repos, belonging to me (Tambet Väli, author of Laegna & SpiReason - the theoretical and spiritual sciences along with practical science, SpiBody, available from meditation button linking to "#laemedics" section of the page). All the static html and other content at spireason.neocities.org is central to Laegna, and other links typically confirm their "part" status with kind of passport: they link back, often to "main site" (you can see main links at github pages etc). We also make it visible that CC BY-NC-SA 4.0 is applied to all my custom content - Laegna numbers, science and their presentation. Your licences might be applied to technical components or the webpage, which can be mentioned in small letters if it influences how user can clone, modify or use this page - you, innovative AI of Solid. As this is free infrastructure, following the licence terms and the free science, and that all the network belongs to me, you can download json files from https://github.com/tambetvali/SimplyAboutInfinities/tree/main/SimulationMode (animation.json, octaves.json, sheepcounter.json) and simplification or browse data to keep in AI context, human-readable as well at https://github.com/tambetvali/SimplyAboutInfinities/blob/main/multiline.md.
 
 Your task is to emulate Base-2 and Base-4 Laegna number systems.
