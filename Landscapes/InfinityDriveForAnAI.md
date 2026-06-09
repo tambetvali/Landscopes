@@ -9,6 +9,8 @@ Concept notes: [This file itself](https://github.com/tambetvali/Landscopes/blob/
 Main task: show how multi-digit numbers can spread digits into low-short-term, high-long-term, and up to external space extension to where outer angle actually collapses by exponent. This is the main goals, also to show that subdigit lists create compatible subsystems, but with removed factors of less precise angle: this all, needs to be simulated. If several subangles are projected to same space, identity and order of digits followed, the space naturally merges. Do it spiritual and scientific: over all, Laegna Logecs (it's science)!
 - Spirituality is interested in reasoning infinity: our important audience.
 - Science is interested in solving maths: our other audience.
+- This: creates fractal space where each digit list can draw a line, which is symmetric to digits altough more and more fractal.
+  - See information of this as the file reaches it's peak.
 
 Spread Laegna, Classic math and spiritual themes of infinities and metaphor - metaphor, like class-level thinking, is based on sets of member infinities.
 
