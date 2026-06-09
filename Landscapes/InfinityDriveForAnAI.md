@@ -1,4 +1,4 @@
-[🌈🚦 Laegna Infinity Drive](https://laegna-infinity-drive-b1d4.dev.flatlogic.app/) — compact Laegna fleet‑style workspace.
+[🌈🚦 Laegna Infinity Drive](https://laegna-infinity-drive-b1d4.dev.flatlogic.app/) — compact Laegna fleet‑style workspace (currently placeholder app).
 
 ◯ gray bullet = left cheat‑sheet button stack (implementation spine); colorful icon = interactive Infinity‑Drive simulation of the same flow at higher paradigm.
 
