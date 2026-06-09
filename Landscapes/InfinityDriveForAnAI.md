@@ -1,3 +1,9 @@
+[🌈🚦 Laegna Infinity Drive](https://laegna-infinity-drive-b1d4.dev.flatlogic.app/) — compact Laegna fleet‑style workspace.
+
+◯ gray bullet = left cheat‑sheet button stack (implementation spine); colorful icon = interactive Infinity‑Drive simulation of the same flow at higher paradigm.
+
+Concept notes: [Infinity Drive for an AI](https://github.com/tambetvali/Landscopes/blob/main/Landscapes/InfinityDriveForAnAI.md)
+
 # Task for an AI, an "Infinity Drive"
 
 https://github.com/tambetvali/SimplyAboutInfinities/tree/main/SimulationMode is part of larger Laegna ecosystem, with absolute main page at https://spireason.neocities.org/, which brances to wide range of websites, applets and repos, belonging to me (Tambet Väli, author of Laegna & SpiReason - the theoretical and spiritual sciences along with practical science, SpiBody, available from meditation button linking to "#laemedics" section of the page). All the static html and other content at spireason.neocities.org is central to Laegna, and other links typically confirm their "part" status with kind of passport: they link back, often to "main site" (you can see main links at github pages etc). We also make it visible that CC BY-NC-SA 4.0 is applied to all my custom content - Laegna numbers, science and their presentation. Your licences might be applied to technical components or the webpage, which can be mentioned in small letters if it influences how user can clone, modify or use this page - you, innovative AI of Solid. As this is free infrastructure, following the licence terms and the free science, and that all the network belongs to me, you can download json files from https://github.com/tambetvali/SimplyAboutInfinities/tree/main/SimulationMode (animation.json, octaves.json, sheepcounter.json) and simplification or browse data to keep in AI context, human-readable as well at https://github.com/tambetvali/SimplyAboutInfinities/blob/main/multiline.md.
