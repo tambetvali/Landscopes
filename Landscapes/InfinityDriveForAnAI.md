@@ -16,7 +16,24 @@ Main task: show how multi-digit numbers can spread digits into low-short-term, h
 
 Spread Laegna, Classic math and spiritual themes of infinities and metaphor - metaphor, like class-level thinking, is based on sets of member infinities.
 
---------
+## Task central screen (head page) short overview
+
+https://github.com/tambetvali/Landscopes/blob/main/Landscapes/InfinityDriveForAnAI.md and InfinityDriveForAnAI.md contain both the main task. It concludes where you find the number formats, and which rules about them to represent:
+
+Yet, the most important central visualization is:
+- Fractally, zero origin at X=1 and Y=1 is where the imagined line starts. This is not associated with letter, it's kind of "structural component".
+- First bit is at X=2 and Y is (1 or 2). This means 2^1 rows form 1 cycles.
+- Second bit is at X=4 and Y is (1 or 2 two times). Y % 2 thus, is the selected bit and based on first bits, line now goes through something. Each of 4, now in Y % 4, has given bit.
+- Third bit is at X = 8 and Y now repeats four times - OAOAOAOA from bottom to top are letters.
+- Fourth bit is at X = 16 and Y now: OAOAOAOAOAOAOAOA. IOAEIOAEIOAEIOAE is base-4 representation of this. And base-2 has Y % 2, base-4 has Y % 4.
+
+Please: create this line simulation which shows, how digits generate such line. Also, it should have mirror-reflection: now, at this, the digits are read backwards, and more powerful digits are at the end: but also, the visualization is mirrored on Y (squares read downwards) and on X (last digit is now the OA digit, and next to it is the origin). These two readings show number's relation towards infinity and zero in Laegna math: make this central, and also show how parts of digit sequences turn to simpler patterns, and warn that creating lines is advanced art.
+
+1 is O and 2 is A. After every 2 digits reached, the new digit has 4-phase cycle.
+
+Different screens and widgets could connect to single mathematical space to change something here.
+
+#### Task long overview (additional displays on additional pages unless they directly join with main animation; number system simulation should be available to main simulation if exists, and to user it's simplistic unles specific target - this task also explains well all the background to implement number system simulators on their own, with some additional basing).
 
 https://github.com/tambetvali/SimplyAboutInfinities/tree/main/SimulationMode is part of larger Laegna ecosystem, with absolute main page at https://spireason.neocities.org/, which brances to wide range of websites, applets and repos, belonging to me (Tambet Väli, author of Laegna & SpiReason - the theoretical and spiritual sciences along with practical science, SpiBody, available from meditation button linking to "#laemedics" section of the page). All the static html and other content at spireason.neocities.org is central to Laegna, and other links typically confirm their "part" status with kind of passport: they link back, often to "main site" (you can see main links at github pages etc). We also make it visible that CC BY-NC-SA 4.0 is applied to all my custom content - Laegna numbers, science and their presentation. Your licences might be applied to technical components or the webpage, which can be mentioned in small letters if it influences how user can clone, modify or use this page - you, innovative AI of Solid. As this is free infrastructure, following the licence terms and the free science, and that all the network belongs to me, you can download json files from https://github.com/tambetvali/SimplyAboutInfinities/tree/main/SimulationMode (animation.json, octaves.json, sheepcounter.json) and simplification or browse data to keep in AI context, human-readable as well at https://github.com/tambetvali/SimplyAboutInfinities/blob/main/multiline.md.
 
