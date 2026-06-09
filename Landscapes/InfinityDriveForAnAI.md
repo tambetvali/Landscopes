@@ -4,6 +4,8 @@
 
 Concept notes: [This file itself](https://github.com/tambetvali/Landscopes/blob/main/Landscapes/InfinityDriveForAnAI.md)
 
+Laegna numbers: [Study here](https://laegnanumbers.freebuff.app/) - this file has many parts of the task implemented, specializing in number system and small R.
+
 # Task for an AI, an "Infinity Drive"
 
 Main task: show how multi-digit numbers can spread digits into low-short-term, high-long-term, and up to external space extension to where outer angle actually collapses by exponent. This is the main goals, also to show that subdigit lists create compatible subsystems, but with removed factors of less precise angle: this all, needs to be simulated. If several subangles are projected to same space, identity and order of digits followed, the space naturally merges. Do it spiritual and scientific: over all, Laegna Logecs (it's science)!
