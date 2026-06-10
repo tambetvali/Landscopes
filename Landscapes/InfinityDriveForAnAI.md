@@ -10,7 +10,7 @@ Laegna numbers: [Study here](https://laegnanumbers.freebuff.app/) - this file ha
 
 # Task Update:
 
-For the reason below I created [this](https://github.com/tambetvali/LaeLane/) repository: to actually create several simulations and json data files, and to make sure everybody of me will get access to seed data.
+For the reason below I created [this](https://github.com/tambetvali/LaeLane/) repository: to actually create several simulations and json data files, and to make sure everybody of me will get access to seed data. After results, the link will be updated.
 
 This task was followed several times by AI: one AI worked very long, then said sorry it underestimated it.
 
@@ -23,6 +23,19 @@ Others implemented the background theory and mathematical expressions:
       - In my imagination it's even *less trivial* that one octave resembles having two octave-like shapes inside so that if octaves are changed, the shape does not change "below treshold" of 1/2 rhymes.
       - This shows how the number system, by number propagation, is compatible with music theory.
     - Artistic: the 8 in 90-degree angle, on side, is exactly how symbolism of infinity gets associated, connecting it's historic imagination with implementations outside anybodies intent: making us to guess, what has this kind of imagination and intuition, about infinities, have to do with their reality?
+
+This means:
+- The new repository is not supposed to resolve the number theory problems in this task; all this was already done by AI.
+  - Thus, the task pays all attention to it's central issue, and because this information here exists: new task will be written, which contains only the essential.
+  - I will create some code files to implement in short and elegant way and produce some data files.
+    - Small data files can be used by users to replicate my results.
+
+Currently, Sheep Counters exist in this way: I have written code and verified data files, AI used them efficiently for scaled results, such as 3D counter of numbers.
+- Now, several number properties have been added, which need simulation.
+
+The result will be reflected by setting the link here, and at [Laegna Infinity Home Section](https://spireason.neocities.org/#infinity), where "♈ Count and Matter" at bottom of the section already contains all the add-ons and number theory specs and explanations, but "🌈🚦 Laegna Infinity Drive" is a stub link currently pointing to "nowhere", to a stub page created by even wrong type of an AI.
+
+So, thumbs up!
 
 # Task for an AI, an "Infinity Drive"
 
