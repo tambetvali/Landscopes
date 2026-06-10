@@ -1,6 +1,8 @@
-[🌈🚦 Laegna Infinity Drive](https://laegna-infinity-drive-b1d4.dev.flatlogic.app/) — compact Laegna fleet‑style workspace (currently placeholder app).
+[🌈🚦 Laegna Infinity Drive](https://laegna-spireason-simulation-model-red-panda.reflex.run/) — compact Laegna fleet‑style workspace (currently placeholder app).
 
-◯ gray bullet = left cheat‑sheet button stack (implementation spine); colorful icon = interactive Infinity‑Drive simulation of the same flow at higher paradigm.
+◯ [🚦 Laegna Infinity Drive](https://9u6asbm1ww.zite.so/) — Cheat Sheet 3, as addition to:
+- [Cheat Sheet 1](https://spireason.neocities.org/Additional/bizpon)
+- [Cheat Sheet 2](https://spireason.neocities.org/Additional/Ponegatetables.pdf)
 
 Concept notes: [This file itself](https://github.com/tambetvali/Landscopes/blob/main/Landscapes/InfinityDriveForAnAI.md)
 
