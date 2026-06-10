@@ -8,6 +8,22 @@ Laegna numbers: [Study here](https://laegnanumbers.freebuff.app/) - this file ha
 
 > Note: I have to manually write code before this implementation becomes perfect! Currently the app is kind of nonsense yet.. I will do that :)
 
+# Task Update:
+
+For the reason below I created [this](https://github.com/tambetvali/LaeLane/) repository: to actually create several simulations and json data files, and to make sure everybody of me will get access to seed data.
+
+This task was followed several times by AI: one AI worked very long, then said sorry it underestimated it.
+
+Others implemented the background theory and mathematical expressions:
+- Every secondary task in this goal was implemented by an AI, reaching [App given in introduction](https://laegnanumbers.freebuff.app/).
+  - This means: while it did not do the central task, it achieved some goals:
+    - Projecting number system into visual I imagine as essential and central.
+      - Resolved symmetric, simple mathematical goals present in the problem.
+      - Created the utmost important, simplistic images.
+      - In my imagination it's even *less trivial* that one octave resembles having two octave-like shapes inside so that if octaves are changed, the shape does not change "below treshold" of 1/2 rhymes.
+      - This shows how the number system, by number propagation, is compatible with music theory.
+    - Artistic: the 8 in 90-degree angle, on side, is exactly how symbolism of infinity gets associated, connecting it's historic imagination with implementations outside anybodies intent: making us to guess, what has this kind of imagination and intuition, about infinities, have to do with their reality?
+
 # Task for an AI, an "Infinity Drive"
 
 Main task: show how multi-digit numbers can spread digits into low-short-term, high-long-term, and up to external space extension to where outer angle actually collapses by exponent. This is the main goals, also to show that subdigit lists create compatible subsystems, but with removed factors of less precise angle: this all, needs to be simulated. If several subangles are projected to same space, identity and order of digits followed, the space naturally merges. Do it spiritual and scientific: over all, Laegna Logecs (it's science)!
