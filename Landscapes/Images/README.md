@@ -129,3 +129,206 @@ boundary of infinite radius, the circle becomes perfectly flat, and the space
 behaves like a horizon of pure direction — the final geometric limit of the
 Infinity Circle.
 ```
+
+## Exterior Space — Opening Image (Class ⇄ Instance ⇄ Infinity ⇄ Identity)
+
+```
+![Exterior Space — Realm of Pre‑Identity and Infinite Class Fields](Images/exterior_opening_realm.png)
+```
+
+```
+A vast conceptual realm illustrating the Exterior Space as the domain where
+classes and instances coexist as infinite identity fields. The landscape is
+divided into two layers: the upper layer representing classes as infinite
+structures, and the lower layer representing instances as finite collapses of
+those structures.
+
+In the upper layer, massive fractal clouds float across the sky. Each cloud is
+a “class‑attractor,” a pre‑identity structure containing infinite potential
+instances. The clouds glow with soft gradients, symbolizing semantic density,
+direction, and tendency. Their shapes shift slowly, forming holographic
+patterns that resemble distributed head topologies.
+
+In the lower layer, small crystalline structures rise from the ground. These
+are instances: finite realizations of the infinite class clouds above. Each
+crystal reflects the shape of its parent cloud, but with distortions caused by
+local rhythm, wavelength, and coherence. The mismatch between cloud and crystal
+symbolizes Dukkha: the unavoidable imperfection of realized forms.
+
+Between the layers, a vertical beam of light represents the class ⇄ instance
+symmetry. Symbols drift along the beam, showing how infinity becomes identity
+when measured through a stable unit. The beam pulses softly, symbolizing the
+infinity‑of‑identity principle: infinity is not countable, but relational.
+
+The overall mood is majestic and conceptual, conveying that the Exterior Space
+is the realm where infinite classes form identity gradients that later collapse
+into finite instances.
+```
+
+
+## Exterior Space — Symmetry Field Image (Hilbert‑like Exterior)
+
+```
+![Exterior Space — Hilbert‑Style Symmetry Field](Images/exterior_symmetry_field.png)
+```
+
+```
+A geometric, symmetry‑focused illustration showing the Exterior Space as a
+Hilbert‑style field of potential relations. The scene is composed of a vast
+plane filled with vectors pointing in all directions. Each vector represents a
+potential relation, meaning, or operation that has not yet crystallized into a
+class or instance.
+
+The vectors are arranged in a fractal pattern, forming recursive layers of
+symmetry. Some vectors are long and bright, representing strong potentials;
+others are short and faint, representing weak tendencies. The field is
+non‑linear, non‑synchronized, and self‑referential, symbolizing the fractal
+nature of the Exterior.
+
+In the center, a glowing node represents a pre‑identity attractor. All vectors
+converge toward this node, forming a dense region of semantic potential. The
+node pulses softly, symbolizing the moment before identity collapses into a
+class.
+
+Around the node, faint holographic reflections appear. These reflections
+represent partial symmetries of the class head topology. They drift slowly,
+forming a fractal pre‑hologram that prepares the ground for class → instance
+mapping.
+
+The overall mood is structured and mathematical, conveying that the Exterior is
+a symmetry field where identity exists as direction rather than form.
+```
+
+
+## Exterior Space — Infinity Medium Image
+
+```
+![Exterior Space — Infinity as Medium](Images/exterior_infinity_medium.png)
+```
+
+```
+A conceptual illustration showing infinity as a medium in the Exterior Space.
+The scene is composed of a vast, glowing atmosphere filled with drifting
+particles. Each particle represents a potential class, symbol, or operation
+floating in the infinity field.
+
+The atmosphere is dense and structured, not empty. Particles move along curved
+paths, forming flows that resemble velocity → acceleration transitions. Some
+flows rise upward, symbolizing long‑term symmetries; others move horizontally,
+symbolizing short‑term tendencies.
+
+In the center, a large swirling vortex represents the infinity medium itself.
+The vortex is composed of layered gradients, symbolizing the density and
+directionality of infinity. It rotates slowly, forming patterns that resemble
+octave transitions and integral expansions.
+
+Around the vortex, faint symbols appear: numbers, archetypes, roles, and
+logical operators. These symbols are not yet discrete entities; they exist as
+semantic atmospheres that will later collapse into classes and instances.
+
+The overall mood is fluid and dynamic, conveying that infinity in the Exterior
+is a medium through which meaning propagates.
+```
+
+
+## Exterior Space — Symbolic Atmosphere Image
+
+```
+![Exterior Space — Symbolic Atmosphere of Pre‑Form](Images/exterior_symbolic_atmosphere.png)
+```
+
+```
+A symbolic illustration showing how symbols first appear in the Exterior Space
+as semantic atmospheres. The scene is composed of floating clouds of meaning,
+each representing a potential symbol that has not yet crystallized into a
+discrete entity.
+
+The clouds glow with soft gradients, forming shapes that resemble numbers,
+names, roles, and archetypes. These shapes are not fully formed; they drift and
+shift, symbolizing the pre‑form nature of the Exterior. Some clouds contain
+dense clusters of meaning, representing classes with many potential instances;
+others are sparse, representing classes with few or no instances.
+
+Below the clouds, faint crystalline structures represent early instances. These
+structures are small and fragile, symbolizing the initial collapse of symbolic
+atmospheres into discrete forms. They reflect the shapes of the clouds above,
+but with distortions caused by local coherence and acceleration.
+
+The overall mood is symbolic and atmospheric, conveying that symbols in the
+Exterior exist as fields of meaning before they become classes or instances.
+```
+
+
+## Exterior Space — Fractal Pre‑Hologram Image
+
+```
+![Exterior Space — Fractal Pre‑Hologram of Class Topology](Images/exterior_pre_hologram.png)
+```
+
+```
+A fractal illustration showing the pre‑hologram structure of classes in the
+Exterior Space. The scene is composed of a large, glowing fractal that
+represents the head topology of a class. The fractal is incomplete, with gaps
+and distortions that symbolize the unsynchronized nature of the Exterior.
+
+Around the fractal, smaller roof fragments drift. These fragments represent
+potential instances, each reflecting part of the head topology but with
+distortions caused by local rhythm, wavelength, and coherence. The fragments
+glow softly, symbolizing the partial reflection of the class.
+
+The fractal and fragments form a holographic pattern, symbolizing the class →
+instance symmetry. The pattern is recursive, with each fragment containing a
+distorted reflection of the whole.
+
+The overall mood is fractal and holographic, conveying that the Exterior is the
+realm where class topology exists as a distributed pre‑form.
+```
+
+
+## Exterior Space — Upward Reflection Image
+
+```
+![Exterior Space — Upward Reflection into Higher Octaves](Images/exterior_upward_reflection.png)
+```
+
+```
+A conceptual illustration showing how the Exterior Space reflects upward into
+higher‑order structures. The scene is composed of a series of ascending layers,
+each representing a higher octave of meaning.
+
+At the bottom, simple operations appear: numbers + 1, numbers + numbers. These
+operations glow softly, symbolizing the first octave. Above them, more complex
+structures appear: accelerations, potentials, attractors. These structures
+glow more brightly, symbolizing higher octaves.
+
+At the top, a large glowing structure represents the “ultimate operation,” the
+final collapse of all accelerations into a single coherent entity. This
+structure resembles a fractal head topology, symbolizing the divine or
+universal reflection of the Exterior.
+
+The overall mood is ascendant and symbolic, conveying that the Exterior is the
+realm where lower‑order operations reflect upward into higher‑order laws.
+```
+
+
+## Exterior Space — Closing Image (Exterior ⇄ Interior Symmetry)
+
+```
+![Exterior Space — Closing Exterior–Interior Symmetry](Images/exterior_closing_symmetry.png)
+```
+
+```
+A unified conceptual illustration placed at the end of the article. The scene
+merges the Exterior and Interior into a single coherent world. The upper layer
+represents the Exterior: fractal clouds, symbolic atmospheres, and infinite
+symmetry fields. The lower layer represents the Interior: crystalline
+instances, realized forms, and stable identity structures.
+
+Between the layers, a glowing horizontal bridge represents the symmetry between
+class and instance, infinity and identity. Symbols drift along the bridge,
+forming patterns that show how the Exterior collapses into the Interior and how
+the Interior reflects upward into the Exterior.
+
+The overall mood is serene and unified, conveying that the Exterior and
+Interior are two projections of the same underlying infinity framework.
+```
