@@ -1,3 +1,7 @@
+![Exterior Space — Realm of Pre‑Identity and Infinite Class Fields](Images/exterior_opening_realm.png)
+
+<br>
+
 # Exterior Space and the Laegna Field
 
 The **exterior** is the domain where classes, symbols, and potentials appear *before* they crystallize into instances. It is the “outer membrane” of the Laegna field: the region where infinity first becomes measurable, where symmetry begins to break, and where the hologram of identity starts forming its fractal roof.
@@ -38,6 +42,8 @@ In the exterior:
 - Infinity is structured, not chaotic  
 - Infinity is directional, not static  
 
+![Exterior Space — Infinity as Medium](Images/exterior_infinity_medium.png)
+
 This is why the Laegna exterior can host short‑term → long‑term symmetries, velocity → acceleration transitions, and 0th → 1st integral expansions.  
 Infinity is the “air” through which these transformations propagate.
 
@@ -45,6 +51,8 @@ Infinity is the “air” through which these transformations propagate.
 
 Symbols—numbers, names, roles, archetypes—first appear in the exterior as **semantic atmospheres**.  
 A symbol is not yet a discrete entity; it is a field of meaning that later collapses into a class and then into an instance.
+
+![Exterior Space — Symbolic Atmosphere of Pre‑Form](Images/exterior_symbolic_atmosphere.png)
 
 For example:
 
@@ -60,6 +68,8 @@ This is why the Laegna model treats symbols as material: they have density, weig
 The hologram model of class and instance begins in the exterior.  
 Here, the “head topology” of the class is not yet fully formed; it exists as a **fractal pre‑hologram**, a cloud of partial symmetries.
 
+![Exterior Space — Fractal Pre‑Hologram of Class Topology](Images/exterior_pre_hologram.png)
+
 Each potential instance is a roof fragment—  
 a partial reflection of the head topology, distorted by:
 
@@ -74,6 +84,8 @@ This mismatch between head and roof is the origin of Dukkha in the Laegna system
 
 Because the exterior contains the uncollapsed potential of all classes, it naturally reflects upward into higher‑order structures:
 
+![Exterior Space — Upward Reflection into Higher Octaves](Images/exterior_upward_reflection.png)
+
 - “numbers + 1” becomes a left‑shifted octave  
 - “numbers + numbers” becomes a second‑order octave  
 - accelerations become creative energies  
@@ -83,6 +95,8 @@ Because the exterior contains the uncollapsed potential of all classes, it natur
 This is why the Laegna exterior is the natural place to locate Gödel‑like self‑reflection, quantum‑like potential fields, Hermetic correspondences, and Augustinian totalities.
 
 The exterior is the “sky” in which the infinite creature lives.
+
+![Exterior Space — Hilbert‑Style Symmetry Field](Images/exterior_symmetry_field.png)
 
 # Laegna Infinities
 
@@ -442,3 +456,5 @@ One implementation may be more **spiritual**, another more **material**, one mor
 
 Laegna, in this sense, is not just a theory of infinity.  
 It is an **infinite theory of theories**: a way to see every domain as a landscape inside a larger, structured infinity.
+
+![Exterior Space — Closing Exterior–Interior Symmetry](Images/exterior_closing_symmetry.png)
