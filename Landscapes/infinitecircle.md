@@ -1,5 +1,7 @@
 # Infinite circle
 
+![Infinite Circle — Realm of Multi‑Scale Geometry](Images/infinitecircle_opening_realm.png)
+
 A good projection: in linear-exponential dimensionality rather than eucleidean ball, it could be perfectly represented as square field, where horizontal-vertical but also both-diagonal neighbours are always at distance 1 (1X), or at distance infinitesimal (1Z) or infinity (1Y).
 
 We are interested in angle-distance relations in circles.
@@ -34,6 +36,8 @@ This is the first trial with limited time, I tried to write the task: I will add
 
 # Infinite Circle Geometry in Log–Linear–Exponential Space  
 ### A Multi‑Scale Model of Angles, Distances, and Sub‑Zero Dimensions
+
+![Infinite Circle — Angle–Distance Mathematical Structure](Images/infinitecircle_middle_math.png)
 
 ## 1. Overview
 
@@ -227,3 +231,5 @@ You can extend this model by exploring:
 - **[asymptotic cones of metric spaces](ca://s?q=Explain_asymptotic_cones)**  
 - **[fractal tangent spaces](ca://s?q=Describe_fractal_tangent_spaces)**  
 - **[multi‑metric manifolds](ca://s?q=What_is_a_multi_metric_manifold)**
+
+![Infinite Circle — Flatness at the Boundary of Infinite Space](Images/infinitecircle_closing_flatness.png)
