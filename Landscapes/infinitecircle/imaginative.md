@@ -555,3 +555,21 @@ Write an article - explain the topic mathematically and programmatically, prove 
 Where edge of circle becomes linear, edge of circle points parallel, but not equal arrows towards zero - each point points in same direction, 0 degrees, but being in different "X coordinate" itself in it's system: zero is infinitely away, but it must also be *at several positions with equal distance to edge points themselves*, which is not eucleidean possibility. From position of zero it would like to project, in proper geometry, each point with different angle, but in terms of edge point interactions to neighbours, rotating the circle it would be always the same relation - but with edge flat, it contradicts that eucleidically, flat line rather is hit from different angles, and only the point right upwards would remain symmetric to left and right to this ray - so from zero to upwards, different paradox appears. Zero is shown below, straight-line-fragment of edge upwards, and it's mentioned that from flat place on earth, pointing exactly down, we would point different points as "zeros" or change our angle at each step by infinitesimal degree: but *completely flat* projection comes from *limit value*, so it's not *approaching* but *hitting* infinity.
 
 With text and full image description, give me an article - "Instruction for Image" part has some 1-2 pages, complete image description for advanced AI model like gpt image 2, while text before uses plain-english and utf-8 symbolic math not special blocks, but indeed proves, explains, and trivializes the basic facts to expect that behaviour and model separate Z, X, Y spaces to evenly distribute in infinity given particular precision.
+
+---
+
+The results of base task are not enough, and it does not appear nice:
+
+It's not present that:
+
+Scale Z means making circle of r=1 infinitely smaller, so that r=infinitesimal. Edge has no angles and dot is "introvert" in this sense that coordinate relations are lost.
+Scale X means leaving it to r=1, initial condition of not scaling.
+Scale Y means making cirlce of r=1 infinitely smaller, so that r=infinity. Edge is flat.
+
+Zoom Z means zooming infinitely in, like using loop in photoshop but instead of one scale, there will be one infinity. "z=infinitesimal".
+Zoom X means not zooming, leaving "z=1".
+Zoom Y means zooming infinitely out, leaving "z=infinity".
+
+If z=r, normal scale appears, but for their values infinitesimal, one or infinity, three different scales appear and they can be projected using log, lin and exp coordinate axe transformations into common, coherent space where each angular system is equal - 360 degrees exist in Z, X and Y space, achieved by Z, X or Y magnitude of zoom.
+
+This needs clean, artistic, laegna-style and spireason-touched visualization, and as Z, X, Y have variety of meanings and displays at spireason.neocities.org and branching sites: sometimes, Z is quantum, X is normal scale, Y is macro - objective neutral scales of dead matter; sometimes, Z is hell and it's so small number, X is earth and Y is heaven - subjective worse-better scales of alive spirit. This context needs to be in ecosystem.
