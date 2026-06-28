@@ -239,8 +239,6 @@ You can extend this model by exploring:
 # Second Article
 
 # Infinite Circle — Extended Mathematical Article (Part 1)  
-### A continuation of Landscapes/infinitecircle.md  
-### Illustrations appear seamlessly from infinitecircle/
 
 The Infinite Circle is the simplest non‑Euclidean object in Laegna mathematics:  
 a circle whose radius is infinite, whose curvature is zero, and whose boundary becomes a flat line.  
