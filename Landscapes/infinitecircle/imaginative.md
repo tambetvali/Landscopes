@@ -417,11 +417,11 @@ This is why **6XY** and **2ZX** appear flat.
 
 ## 5. The 9‑Cell Table
 
-\`\`\`
+```
 Row 1: 7YZ   8YX   9YY  
 Row 2: 4XZ   5XX   6XY  
 Row 3: 1ZZ   2ZX   3ZY  
-\`\`\`
+```
 
 ### 5XX — normal circle  
 ### 4XZ — zero-circle (point)  
@@ -464,7 +464,7 @@ This is the trivial demonstration.
 
 # Instruction for Image (escaped inner block)
 
-\`\`\`
+```
 A large, structured mathematical diagram showing the “Infinite Circle Table”
 with 9 cells arranged in a 3×3 grid. Each cell contains a circle (“CC”) rendered
 according to its scale and zoom properties in Laegna number spaces (Z, X, Y).
@@ -515,7 +515,7 @@ Include annotations:
 Style:  
 Clean mathematical diagram, high resolution, white background, thin lines,  
 precise geometry, minimal artistic noise, suitable for academic publication.  
-\`\`\`
+```
 
 # End of Article
 
